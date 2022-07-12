@@ -32,7 +32,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/william-martinez-b9561b1a1
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
