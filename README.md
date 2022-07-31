@@ -1,4 +1,4 @@
-<h1>William Martinez <br/><a href="https://github.com/nanosight">Software Engineer</a>
+<h1>William Martinez <br/><a href="https://github.com/nanosight">Software Engineer || Web Developer</a>
   
 <h2> 🌱 SKILLS </h2>
   <p><strong>Full Stack Engineer: </strong>HTML, CSS, Javascript, Python, TDD w/ Mocha</strong>, Command Line, Node.js, React, Redux, Data Security, Data Structures, Algorithms</p>
