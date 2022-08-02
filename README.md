@@ -1,7 +1,7 @@
-<h1>William Martinez <br/><a href="https://github.com/nanosight">Software Engineer || Web Developer</a>
+<h1>William Martinez <br/><a href="https://github.com/nanosight">Software Developer</a>
   
 <h2> 🌱 SKILLS </h2>
-  <p><strong>Full Stack Engineer: </strong>HTML, CSS, Javascript, Python, TDD w/ Mocha</strong>, Command Line, Node.js, React, Redux, Data Security, Data Structures, Algorithms</p>
+  <p><strong>Familiar with: </strong>HTML, CSS, Javascript, Python</p>
 <h2> 🤳 CONNECT WITH ME:</h2>
 
 [<img align="left" alt="Will | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
